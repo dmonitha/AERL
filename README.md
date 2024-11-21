@@ -4,8 +4,8 @@ This repo contains the working code for AERL & AERL-FS agorithms.
 Requirements -
 1. pip install shap
 2. pip install xgboost
-
-
+3. Python == 3.10.12
+   
 **Abstract**-
 Supervised feature selection aims to identify a subset of rele-
 vant features from high-dimensional data to enhance model accuracy and
