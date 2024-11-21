@@ -6,7 +6,7 @@ Requirements -
 2. pip install xgboost
 
 
-# Abstract -
+** Abstract **-
 Supervised feature selection aims to identify a subset of rele-
 vant features from high-dimensional data to enhance model accuracy and
 efficiency. Traditional feature selection techniques often produce subop-
